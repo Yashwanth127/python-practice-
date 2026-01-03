@@ -23,3 +23,8 @@ for i in range(1, 6):
     if i == 3:
         continue
     print(i)
+
+#two print even number from n to n
+for i in range(1,21):
+    if i %2 ==0:
+        print(i)

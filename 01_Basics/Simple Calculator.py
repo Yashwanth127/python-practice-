@@ -18,4 +18,4 @@ elif choose == 4:
     else:
         print("the 0 cant be divided ")
 else :
-    print("The wrong operation you are selected ")
+    print("The wrong operation youare selected ")
