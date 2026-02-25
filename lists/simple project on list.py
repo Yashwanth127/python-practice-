@@ -1,0 +1,11 @@
+marks=[85, 70, 90, 60, 88]
+mark=int(input("Enter new mark: "))
+marks.append(mark)
+print("updated marks",marks)
+mark=int(input("Enter mark to remove: "))
+marks.remove(mark)
+print(marks)
+print("total",sum(marks))
+print("highest marks", max(marks))
+print("lowest marks ", min(marks))
+print("Average marks:", round(sum(marks)/len(marks), 2))
