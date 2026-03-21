@@ -1,0 +1,9 @@
+1) Dictonary means
+A dictionary in Python is a data structure used to store data in key–value pairs
+
+
+A Python dictionary:
+
+Stores data in key → value format
+Is fast and flexible
+Is widely used in real-world applications (APIs, databases, configs)
