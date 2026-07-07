@@ -1,4 +1,4 @@
-def char_frequency(s):
+9def char_frequency(s):
     freq = {}
 
     for ch in s:
