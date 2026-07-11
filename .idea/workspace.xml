@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01_Basics/wee1_projects/Simple Calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Basics/wee1_projects/Swap numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Basics/wee1_projects/avg marks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Basics/comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Basics/comments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Basics/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Basics/operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Basics/type casting.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Basics/type casting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Simple Calc.executor": "Run",
+    "Python.Swap numbers.executor": "Run",
     "Python.comments.executor": "Run",
     "Python.data_types.executor": "Run",
     "Python.input_output.executor": "Run",
