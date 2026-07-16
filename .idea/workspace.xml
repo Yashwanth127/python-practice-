@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01_Basics/wee1_projects/area cal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Basics/wee1_projects/student details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Basics/mobile_bill_splitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Basics/student_grade_result.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screens hots/{6697A3F6-B8E1-49CD-9E3A-2884EC0EE9F1}.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/{6697A3F6-B8E1-49CD-9E3A-2884EC0EE9F1}.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screens hots/{B8EC6982-E45F-4387-B422-3B1694CD4514}.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/{B8EC6982-E45F-4387-B422-3B1694CD4514}.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,17 +53,22 @@
     "Python.comments.executor": "Run",
     "Python.data_types.executor": "Run",
     "Python.input_output.executor": "Run",
+    "Python.mobile_bill_splitter.executor": "Run",
     "Python.operators.executor": "Run",
     "Python.student details.executor": "Run",
+    "Python.student_grade_result.executor": "Run",
     "Python.type casting.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Tzzs/OneDrive/Desktop/Python from Zero"
+    "last_opened_file_path": "C:/Users/Tzzs/OneDrive/Desktop/Python from Zero/Screenshots"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tzzs\OneDrive\Desktop\Python from Zero\Screenshots" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Tzzs\OneDrive\Desktop\Python from Zero\01_Basics\wee1_projects" />
     </key>
