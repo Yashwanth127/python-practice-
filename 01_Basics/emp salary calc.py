@@ -1,18 +1,14 @@
-# Employee bonus calculator
+empname = input("Enter the Emp name: ")
+sal = float(input("Enter the basic Salary: "))
+service = float(input("Enter the Total years Service experience: "))
 
-name = input("Enter employee name: ")
-basic_salary = float(input("Enter basic salary: "))
-years_of_service = int(input("Enter years of service: "))
-
-if years_of_service >= 5:
-    bonus = basic_salary * 0.10
+if service > 5:
+    bonus = sal * 0.10
 else:
-    bonus = basic_salary * 0.05
+    bonus = sal * 0.05
 
-total_salary = basic_salary + bonus
+total_sal = sal + bonus
 
-print("\n====== Employee Salary Details ======")
-print("Name:", name)
-print("Basic Salary:", basic_salary)
+print("Employee Name:", empname)
 print("Bonus:", bonus)
-print("Total Salary:", total_salary)
+print("Total Salary:", total_sal)
