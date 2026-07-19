@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01_Basics/mobile_bill_splitter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Basics/student_grade_result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Basics/emp salary calc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,27 +43,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Simple Calc.executor": "Run",
-    "Python.Swap numbers.executor": "Run",
-    "Python.area cal.executor": "Run",
-    "Python.avg marks.executor": "Run",
-    "Python.comments.executor": "Run",
-    "Python.data_types.executor": "Run",
-    "Python.input_output.executor": "Run",
-    "Python.mobile_bill_splitter.executor": "Run",
-    "Python.operators.executor": "Run",
-    "Python.student details.executor": "Run",
-    "Python.student_grade_result.executor": "Run",
-    "Python.type casting.executor": "Run",
-    "Python.variables.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Tzzs/OneDrive/Desktop/Python from Zero/Screenshots"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Simple Calc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Swap numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.area cal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.avg marks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input_output.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mobile_bill_splitter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student details.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student_grade_result.executor&quot;: &quot;Run&quot;,
+    &quot;Python.type casting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tzzs/OneDrive/Desktop/Python from Zero/Screenshots&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Tzzs\OneDrive\Desktop\Python from Zero\Screenshots" />
