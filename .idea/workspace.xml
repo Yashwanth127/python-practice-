@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/02_Practicequestions/print numbers from 1 to N.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Practicequestions/print numbers from 1 to N.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Practicequestions/print numbers from 1 to N.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,7 @@
     &quot;Python.input_output.executor&quot;: &quot;Run&quot;,
     &quot;Python.mobile_bill_splitter.executor&quot;: &quot;Run&quot;,
     &quot;Python.operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print numbers from 1 to N.executor&quot;: &quot;Run&quot;,
     &quot;Python.student details.executor&quot;: &quot;Run&quot;,
     &quot;Python.student_grade_result.executor&quot;: &quot;Run&quot;,
     &quot;Python.type casting.executor&quot;: &quot;Run&quot;,

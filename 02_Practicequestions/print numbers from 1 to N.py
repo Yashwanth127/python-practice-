@@ -1,10 +1,18 @@
-#Use a simple loop from 1 to N. In interviews, clarify: inclusive/exclusive, handling invalid input, and printing format.
-def print_numbers(n: int) -> None:
-    if n <= 0:
+def print_number(n:int)->None:
+    if n<=0:
         return
-    for i in range(1, n + 1):
-        print(i, end=" ")
-    print()
+    for i in range(1,n+1):
+        print(i, end="  ")
+        print()
 
-# Example
-print_numbers(20)
+print_number(20)
+
+#Dry run
+def print_numbers(n):
+    if n<=5:
+        return
+    for i in range(1,n+1):
+        print(i, end ="")
+        print()
+
+print_numbers(6)
