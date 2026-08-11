@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/02_Practicequestions/Even or Odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Practicequestions/multiplication of number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Practicequestions/postive or negative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Practicequestions/Reverse a number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Practicequestions/factorial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Practicequestions/check + or - number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Practicequestions/check even or add.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Practicequestions/largest of two numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Practicequestions/largest of two numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Even or Odd.executor": "Run",
+    "Python.Reverse a number.executor": "Run",
     "Python.Reviwe.executor": "Run",
     "Python.Simple Calc.executor": "Run",
     "Python.Simple Interst.executor": "Run",
@@ -60,6 +57,7 @@
     "Python.comments.executor": "Run",
     "Python.data_types.executor": "Run",
     "Python.emp salary calc.executor": "Run",
+    "Python.factorial.executor": "Run",
     "Python.input_output.executor": "Run",
     "Python.largest of two numbers.executor": "Run",
     "Python.mobile_bill_splitter.executor": "Run",
@@ -70,6 +68,7 @@
     "Python.python_basics_revison.executor": "Run",
     "Python.student details.executor": "Run",
     "Python.student_grade_result.executor": "Run",
+    "Python.sum of n numbers.executor": "Run",
     "Python.type casting.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
