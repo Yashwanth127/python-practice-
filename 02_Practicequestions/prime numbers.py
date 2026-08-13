@@ -1,4 +1,4 @@
-def is_palin(n: int )->bool:
+def is_prime(n: int )->bool:
     if n <=1:
         return False
     if n <= 3:
@@ -12,3 +12,4 @@ def is_palin(n: int )->bool:
             return False
         i+=6
     return True
+print(is_prime(3))
