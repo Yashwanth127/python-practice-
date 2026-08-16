@@ -7,7 +7,7 @@ else:
     print("prime ")
     '''
 
-num = int(input("Enter the number  "))
+'''num = int(input("Enter the number  "))
 if num <=1:
     print("not a prime ")
 else:
@@ -23,6 +23,8 @@ for num in range(2,21):
         if num %i == 0:
             break
     else:
-        print(num)
+        print(num) '''
+
+
 
 
