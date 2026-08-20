@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Level1_Fundamentals/01_hello_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Level1_Fundamentals/02_variables_datatypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Level1_Fundamentals/03_input_output.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Level1_Fundamentals/04_Arithmetic_Operations..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Level1_Fundamentals/05_Even_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Level1_Fundamentals/06_Positive, Negative, or Zero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Level1_Fundamentals/07_Largest of 2 Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level1_Fundamentals/08_Largest of 3 Numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
