@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Level1_Fundamentals/09_swap of two numbers'.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +52,7 @@
     "Python.06_Positive, Negative, or Zero.executor": "Run",
     "Python.07_Largest of 2 Numbers.executor": "Run",
     "Python.08_Largest of 3 Numbers.executor": "Run",
+    "Python.09_swap of two numbers'.executor": "Run",
     "Python.Even or Odd.executor": "Run",
     "Python.Reverse a number.executor": "Run",
     "Python.Reviwe.executor": "Run",
