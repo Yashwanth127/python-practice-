@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Level1_Fundamentals/15 _ Leap Year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level1_Fundamentals/16 _ Vowel or Consonant.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
     "Python.13_Simple Interest.executor": "Run",
     "Python.14_Percentage and Average.executor": "Run",
     "Python.15 _ Leap Year.executor": "Run",
+    "Python.16 _ Vowel or Consonant.executor": "Run",
     "Python.Even or Odd.executor": "Run",
     "Python.Reverse a number.executor": "Run",
     "Python.Reviwe.executor": "Run",
