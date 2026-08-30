@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="" />
+    <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/20 separate Python files/01_print 1 to N .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 separate Python files/02_Print N to 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 separate Python files/03_Sum of N numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 separate Python files/04_Sum of even numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20 separate Python files/01_reverse_string.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,9 +50,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.01_hello_world.executor": "Run",
+    "Python.02_Print N to 1.executor": "Run",
     "Python.02_variables_datatypes.executor": "Run",
+    "Python.03_Sum of N numbers.executor": "Run",
     "Python.03_input_output.executor": "Run",
     "Python.04_Arithmetic_Operations..executor": "Run",
+    "Python.04_Sum of even numbers.executor": "Run",
     "Python.05_Even_odd.executor": "Run",
     "Python.06_Positive, Negative, or Zero.executor": "Run",
     "Python.07_Largest of 2 Numbers.executor": "Run",
@@ -69,6 +79,7 @@
     "Python.Swap numbers.executor": "Run",
     "Python.area cal.executor": "Run",
     "Python.avg marks.executor": "Run",
+    "Python.break&continue.executor": "Run",
     "Python.break.executor": "Run",
     "Python.comments.executor": "Run",
     "Python.data_types.executor": "Run",
@@ -84,6 +95,7 @@
     "Python.postive or negative.executor": "Run",
     "Python.prime numbers.executor": "Run",
     "Python.primt with user inputs.executor": "Run",
+    "Python.print 1 to N .executor": "Run",
     "Python.print numbers from 1 to N.executor": "Run",
     "Python.python_basics_revison.executor": "Run",
     "Python.student details.executor": "Run",
