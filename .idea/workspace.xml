@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/20 separate Python files/06_Multiplication table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 separate Python files/07_Count Digits.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20 separate Python files/04_Sum of even numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/20 separate Python files/04_Sum of even numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20 separate Python files/04_Sum of even numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/20 separate Python files/04&amp;05_Sum of even &amp; and odd numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,9 @@
     "Python.04_Arithmetic_Operations..executor": "Run",
     "Python.04_Sum of even numbers.executor": "Run",
     "Python.05_Even_odd.executor": "Run",
+    "Python.06_Multiplication table.executor": "Run",
     "Python.06_Positive, Negative, or Zero.executor": "Run",
+    "Python.07_Count Digits.executor": "Run",
     "Python.07_Largest of 2 Numbers.executor": "Run",
     "Python.08_Largest of 3 Numbers.executor": "Run",
     "Python.09_swap of two numbers'.executor": "Run",
