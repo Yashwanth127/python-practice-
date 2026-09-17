@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="" />
+    <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/20 separate Python files/Check Prime Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +71,7 @@
     "Python.15 _ Leap Year.executor": "Run",
     "Python.16 _ Vowel or Consonant.executor": "Run",
     "Python.17_Character_Number Validation.executor": "Run",
+    "Python.Check Prime Number.executor": "Run",
     "Python.Even or Odd.executor": "Run",
     "Python.Fibonacci.executor": "Run",
     "Python.Reverse a number.executor": "Run",
