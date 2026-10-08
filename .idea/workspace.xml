@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/20 separate Python files/Check Prime Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_restart/Print my name.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +74,8 @@
     "Python.Check Prime Number.executor": "Run",
     "Python.Even or Odd.executor": "Run",
     "Python.Fibonacci.executor": "Run",
+    "Python.Print Prime Numbers in a Range.executor": "Run",
+    "Python.Print my name.executor": "Run",
     "Python.Reverse a number.executor": "Run",
     "Python.Reverse a string.executor": "Run",
     "Python.Reviwe.executor": "Run",
@@ -89,6 +91,7 @@
     "Python.data_types.executor": "Run",
     "Python.emp salary calc.executor": "Run",
     "Python.factorial.executor": "Run",
+    "Python.find factors.executor": "Run",
     "Python.for loop.executor": "Run",
     "Python.frequency.executor": "Run",
     "Python.input_output.executor": "Run",
