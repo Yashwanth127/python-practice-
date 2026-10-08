@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day1_restart/Print my name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_restart/Check even or odd number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_restart/Checkpositivenegativezero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_restart/DIvision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_restart/Multiply two numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_restart/subtract two numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,9 +75,12 @@
     "Python.15 _ Leap Year.executor": "Run",
     "Python.16 _ Vowel or Consonant.executor": "Run",
     "Python.17_Character_Number Validation.executor": "Run",
+    "Python.Add two numbers.executor": "Run",
     "Python.Check Prime Number.executor": "Run",
+    "Python.Check even or odd number.executor": "Run",
     "Python.Even or Odd.executor": "Run",
     "Python.Fibonacci.executor": "Run",
+    "Python.Multiply two numbers.executor": "Run",
     "Python.Print Prime Numbers in a Range.executor": "Run",
     "Python.Print my name.executor": "Run",
     "Python.Reverse a number.executor": "Run",
@@ -83,6 +90,7 @@
     "Python.Simple Calc.executor": "Run",
     "Python.Simple Interst.executor": "Run",
     "Python.Swap numbers.executor": "Run",
+    "Python.Take name and age as input.executor": "Run",
     "Python.area cal.executor": "Run",
     "Python.avg marks.executor": "Run",
     "Python.break&continue.executor": "Run",
@@ -107,6 +115,7 @@
     "Python.python_basics_revison.executor": "Run",
     "Python.student details.executor": "Run",
     "Python.student_grade_result.executor": "Run",
+    "Python.subtract two numbers.executor": "Run",
     "Python.sum of n numbers.executor": "Run",
     "Python.type casting.executor": "Run",
     "Python.variables.executor": "Run",
