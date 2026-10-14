@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="" />
+    <list default="true" id="780a739f-3b56-4071-b236-8c61fe4c6df9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/day3_number_programs/sum of digits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +74,7 @@
     "Python.Add two numbers.executor": "Run",
     "Python.Check Prime Number.executor": "Run",
     "Python.Check even or odd number.executor": "Run",
+    "Python.Count Digits.executor": "Run",
     "Python.Even or Odd.executor": "Run",
     "Python.Fibonacci.executor": "Run",
     "Python.Multiply two numbers.executor": "Run",
@@ -108,6 +112,7 @@
     "Python.print even numbers from 1 to n.executor": "Run",
     "Python.print numbers from 1 to N.executor": "Run",
     "Python.python_basics_revison.executor": "Run",
+    "Python.reverse number.executor": "Run",
     "Python.simple calci.executor": "Run",
     "Python.student details.executor": "Run",
     "Python.student_grade_result.executor": "Run",
